@@ -1,0 +1,114 @@
+body{       margin: 0;
+    padding: 0;
+             width:100vw;
+             height: 100vh;
+             
+        
+
+       }
+       #a{width:700px;
+    background-image:url("https://img.freepik.com/free-photo/wall-blank-paper-frame-with-acorn-decoration_53876-105706.jpg?w=740&t=st=1667484451~exp=1667485051~hmac=e6a479cec91e315e6eed71b12df71d588218c5320cf00ec717f3e7c861045297");
+padding: 10px;}
+       .condainer{
+        width:100;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+        
+            
+        
+
+        
+        
+       
+       }
+       h2{
+        font-size: 28px;
+        
+       }
+       p{
+        margin-left: 100px;
+        margin-right: 90px;
+       }
+       #buttom_1{
+        margin-left: 100px;
+       }
+       #maincontent{
+        display: flex;
+
+        flex-direction: column;
+        text-align: center;
+
+       }
+       #authername{ font-family: "Caveat";
+font-weight: 600;
+font-size: x-large;}
+       #auther{ 
+        display: flex;
+        flex-direction: row;
+        margin-right: 100px;
+        justify-content:right;
+    font-family: "Caveat";
+font-weight: 600;
+font-size: x-large;}
+        ul{
+            display: inline-block;
+            list-style: none;
+        }
+        li{
+            display: inline-block; 
+            margin: 0 5px; 
+        }
+        #buttan{
+        display: flex;
+        flex-direction:row;
+        justify-content:space-between;
+        margin-top:10px;
+        }
+        #buttom_2{
+            margin-top: 10px;
+            margin-right: 100px;
+        }
+        #oriQuote{
+            font-family:"Kanit";
+            font-weight: 600;
+        }
+        button{
+            border-radius: 15px;
+            background-color:darkslategrey;
+            color: white;
+            font-size:400;
+            border: none;
+            margin-top:5px;
+            margin-right: 10px;
+            padding: 7px 10px;
+            box-shadow: 2px 2px black ;
+    
+        }
+        button:hover{
+        background-color:rgba(0, 0, 0, .6) ;
+        transition:4sec ;
+    }
+    #twit{
+        border: 2px solid black;
+        align-items: center;
+        padding: 5px;
+        border-radius: 15px;
+        box-shadow: 1px 1px black ;
+        background-color: rgba(0, 0, 0, .3);
+    }
+   
+    .audio_1{
+        border: 2px solid black;
+        align-items: center;
+        padding: 5px;
+        border-radius: 15px;
+        background-color: rgba(0, 0, 0, .3);
+        box-shadow: 1px 1px black ;
+
+    }
+
+            
